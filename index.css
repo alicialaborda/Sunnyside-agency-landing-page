@@ -328,6 +328,10 @@
     color: hsl(0deg, 0%, 100%);
     opacity: 1;
   }
+
+.attribution{
+    background-color: rgba(84, 206, 181, 0.7);
+}
   
   @media (min-width: 600px) {
     .header {
